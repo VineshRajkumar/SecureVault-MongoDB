@@ -18,6 +18,7 @@ Secure Vault is a web application designed to securely store and manage password
 - Express
 - MongoDB
 - Tailwind CSS
+- Tailblocks
 
 ## Usage
 
