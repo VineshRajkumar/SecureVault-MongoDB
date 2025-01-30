@@ -13,7 +13,7 @@ const Navbar = () => {
         </div>
         <ul className="text-white  flex justify-evenly  ">
           <li className="">
-            <Link to="/"><span className="mx-5" >Home</span></Link>
+            <Link to="/SecureVault-MongoDB"><span className="mx-5" >Home</span></Link>
             <Link to="/about" ><span className="mx-5">About</span></Link>
             <Link to="/contact"><span className="mx-5">Contact</span></Link>
           </li>

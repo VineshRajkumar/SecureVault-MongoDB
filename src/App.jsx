@@ -9,7 +9,7 @@ import Footer from "./components/Footer";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/SecureVault-MongoDB",
       element: (
         <>
           <Navbar />
